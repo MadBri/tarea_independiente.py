@@ -1,5 +1,4 @@
 # tarea_independiente.py
-# tarea_independiente
 # ejercicio_1
 
 ### main.py
